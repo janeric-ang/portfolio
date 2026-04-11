@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- Background -->
+  <rect width="32" height="32" rx="7" fill="#06070a"/>
+
+  <!-- Subtle blue border glow -->
+  <rect width="32" height="32" rx="7" fill="none" stroke="#3b82f6" stroke-width="1" opacity="0.35"/>
+
+  <!-- J (white) -->
+  <text
+    x="7"
+    y="23"
+    font-family="Syne, system-ui, sans-serif"
+    font-size="18"
+    font-weight="700"
+    fill="#ffffff"
+    letter-spacing="-0.5"
+  >J</text>
+
+  <!-- A (blue) -->
+  <text
+    x="17"
+    y="23"
+    font-family="Syne, system-ui, sans-serif"
+    font-size="18"
+    font-weight="700"
+    fill="#3b82f6"
+    letter-spacing="-0.5"
+  >A</text>
+</svg>
